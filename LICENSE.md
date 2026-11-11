@@ -1,6 +1,6 @@
 # NoRust Blog License
 
-Last Modified: 25th September 2026
+Last Modified: 11th November 2026
 
 ## 0. Definitions
 
