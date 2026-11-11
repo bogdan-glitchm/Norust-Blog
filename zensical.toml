@@ -1,13 +1,13 @@
 [project]
 site_url = "https://www.example.com/"
-site_name = "Documentation"
-# site_description = "Your project description"
-# site_author = "Your name"
+site_name = "NoRust Blog"
+site_description = "Learn to write memory-safe code without Rust."
+site_author = "bogdan-glitchm"
 
-# copyright = "Copyright &copy; 2026 Your name"
+copyright = "Copyright &copy; 2026 bogdan-glitchm"
 
-# repo_url = "https://github.com/user/repo"
-# repo_name = "user/repo"
+repo_url = "https://github.com/bogdan-glitchm/Norust-Blog"
+repo_name = "bogdan-glitchm/Norust-Blog"
 # edit_uri = "edit/main/docs/"
 
 # extra_css = ["stylesheets/extra.css"]
